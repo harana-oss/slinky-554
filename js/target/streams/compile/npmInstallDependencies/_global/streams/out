@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0mUpdating NPM dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing lockfile /Users/naden/Developer/harana-oss/slinky-554/js/yarn.lock[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: yarn install --non-interactive --mutex network[0m
+[0m[[0m[0minfo[0m] [0m[0myarn install v1.22.17[0m
+[0m[[0m[0minfo[0m] [0m[0m[1/4] Resolving packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[2/4] Fetching packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[3/4] Linking dependencies...[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/core@0.79.0" has unmet peer dependency "@nivo/tooltip@0.79.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/core@0.79.0" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/waffle@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > @nivo/colors@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > @nivo/legends@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > react-motion@0.5.2" has incorrect peer dependency "react@^0.14.9 || ^15.3.0 || ^16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > awesome-typescript-loader@5.2.1" has incorrect peer dependency "typescript@^2.7 || ^3".[0m
+[0m[[0m[0minfo[0m] [0m[0m[4/4] Building fresh packages...[0m
+[0m[[0m[0minfo[0m] [0m[0msuccess Saved lockfile.[0m
+[0m[[0m[0minfo[0m] [0m[0mDone in 1.84s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mWrote lockfile to /Users/naden/Developer/harana-oss/slinky-554/js/yarn.lock[0m

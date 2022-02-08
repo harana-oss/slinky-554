@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastOptJS::webpack, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: slinky554JS / Compile / fastOptJS / webpack[0m
+[0m[[0m[33mwarn[0m] [0m[0msbt 0.13 shell syntax is deprecated; use slash syntax instead: slinky554JS / Compile / fastOptJS / webpack[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting version file /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/resource_managed/main/rally-version.properties[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating NPM dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing lockfile /Users/naden/Developer/harana-oss/slinky-554/js/yarn.lock[0m
+[0m[[0m[0minfo[0m] [0m[0myarn install v1.22.17[0m
+[0m[[0m[0minfo[0m] [0m[0m[1/4] Resolving packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[2/4] Fetching packages...[0m
+[0m[[0m[0minfo[0m] [0m[0m[3/4] Linking dependencies...[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/core@0.79.0" has unmet peer dependency "@nivo/tooltip@0.79.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/core@0.79.0" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > @nivo/waffle@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > @nivo/colors@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > @nivo/legends@0.79.1" has unmet peer dependency "prop-types@>= 15.5.10 < 16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning "@nivo/waffle > react-motion@0.5.2" has incorrect peer dependency "react@^0.14.9 || ^15.3.0 || ^16.0.0".[0m
+[0m[[0m[31merror[0m] [0m[0mwarning " > awesome-typescript-loader@5.2.1" has incorrect peer dependency "typescript@^2.7 || ^3".[0m
+[0m[[0m[0minfo[0m] [0m[0m[4/4] Building fresh packages...[0m
+[0m[[0m[0minfo[0m] [0m[0msuccess Saved lockfile.[0m
+[0m[[0m[0minfo[0m] [0m[0mDone in 1.84s.[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilding webpack library bundles for slinky554-fastopt in /Users/naden/Developer/harana-oss/slinky-554/js/target/streams/_global/_global/_global/streams/fastOptJS-webpack-libraries[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting scalajs.webpack.config.js[0m
+[0m[[0m[0minfo[0m] [0m[0mVersion: 4.46.0[0m
+[0m[[0m[0minfo[0m] [0m[0mHash: a6d4d3f738bdd8bf274a[0m
+[0m[[0m[0minfo[0m] [0m[0mTime: 660ms[0m
+[0m[[0m[0minfo[0m] [0m[0mPath: /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/scalajs-bundler/main[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt at 2022-02-08T19:27:19.276370[0m
+[0m[[0m[0minfo[0m] [0m[0m                       Asset      Size                            Chunks[0m
+[0m[[0m[0minfo[0m] [0m[0mslinky554-fastopt-library.js   2247889   [emitted]   [slinky554-fastopt][0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 60 -- trees read: 0[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 7 s, completed 8 Feb 2022, 7:27:19 pm[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

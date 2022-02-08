@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="sbt 1" modules="slinky-554_8985" />
+    <profile name="sbt 2" modules="root">
+      <option name="postfixOps" value="true" />
+      <option name="implicitConversions" value="true" />
+      <option name="higherKinds" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xfuture" />
+        <parameter value="-Ypartial-unification" />
+        <parameter value="-Yrangepos" />
+        <parameter value="-Ybackend-parallelism" />
+        <parameter value="8" />
+        <parameter value="-Ybackend-worker-queue" />
+        <parameter value="8" />
+      </parameters>
+    </profile>
+    <profile name="sbt 3" modules="slinky554JS">
+      <option name="postfixOps" value="true" />
+      <option name="implicitConversions" value="true" />
+      <option name="higherKinds" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xfuture" />
+        <parameter value="-Ypartial-unification" />
+        <parameter value="-Yrangepos" />
+        <parameter value="-Ybackend-parallelism" />
+        <parameter value="8" />
+        <parameter value="-Ybackend-worker-queue" />
+        <parameter value="8" />
+        <parameter value="-Xfuture" />
+        <parameter value="-Ypartial-unification" />
+        <parameter value="-Yrangepos" />
+        <parameter value="-Ybackend-parallelism" />
+        <parameter value="8" />
+        <parameter value="-Ybackend-worker-queue" />
+        <parameter value="8" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-compiler_2.12.15/1.7.1/scalajs-compiler_2.12.15-1.7.1.jar" />
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/olegpy/better-monadic-for_2.12/0.3.0/better-monadic-for_2.12-0.3.0.jar" />
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/kind-projector_2.12.15/0.13.2/kind-projector_2.12.15-0.13.2.jar" />
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalamacros/paradise_2.12.15/2.1.1/paradise_2.12.15-2.1.1.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 4" modules="slinky554JVM">
+      <option name="postfixOps" value="true" />
+      <option name="implicitConversions" value="true" />
+      <option name="higherKinds" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xfuture" />
+        <parameter value="-Ypartial-unification" />
+        <parameter value="-Yrangepos" />
+        <parameter value="-Ybackend-parallelism" />
+        <parameter value="8" />
+        <parameter value="-Ybackend-worker-queue" />
+        <parameter value="8" />
+        <parameter value="-Xfuture" />
+        <parameter value="-Ypartial-unification" />
+        <parameter value="-Yrangepos" />
+        <parameter value="-Ybackend-parallelism" />
+        <parameter value="8" />
+        <parameter value="-Ybackend-worker-queue" />
+        <parameter value="8" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/olegpy/better-monadic-for_2.12/0.3.0/better-monadic-for_2.12-0.3.0.jar" />
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/kind-projector_2.12.15/0.13.2/kind-projector_2.12.15-0.13.2.jar" />
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalamacros/paradise_2.12.15/2.1.1/paradise_2.12.15-2.1.1.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

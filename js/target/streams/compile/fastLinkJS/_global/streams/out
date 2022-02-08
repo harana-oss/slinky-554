@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/slinky554-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 941783 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 65221 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 1048516 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 381378 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 2676 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 2340568 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 2733649 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 196128 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 4579 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 213289 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 1746 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 1187 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 5317 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 11508 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 644129 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 33657 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: The set of dangerous global refs has changed. Going to re-generate the world.[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 142354 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 7426 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 580[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 1574[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 868892 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 304698 us[0m

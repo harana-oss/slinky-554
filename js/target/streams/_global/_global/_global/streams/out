@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0mBuilding webpack library bundles for slinky554-fastopt in /Users/naden/Developer/harana-oss/slinky-554/js/target/streams/_global/_global/_global/streams/fastOptJS-webpack-libraries[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting scalajs.webpack.config.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: node /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/scalajs-bundler/main/node_modules/webpack/bin/webpack --bail --profile --json --config /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/scalajs-bundler/main/webpack-dev.js[0m
+[0m[[0m[0minfo[0m] [0m[0mVersion: 4.46.0[0m
+[0m[[0m[0minfo[0m] [0m[0mHash: a6d4d3f738bdd8bf274a[0m
+[0m[[0m[0minfo[0m] [0m[0mTime: 660ms[0m
+[0m[[0m[0minfo[0m] [0m[0mPath: /Users/naden/Developer/harana-oss/slinky-554/js/target/scala-2.12/scalajs-bundler/main[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt at 2022-02-08T19:27:19.276370[0m
+[0m[[0m[0minfo[0m] [0m[0m                       Asset      Size                            Chunks[0m
+[0m[[0m[0minfo[0m] [0m[0mslinky554-fastopt-library.js   2247889   [emitted]   [slinky554-fastopt][0m

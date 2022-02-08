@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="slinky554JS [file:/Users/naden/Developer/harana-oss/slinky-554/]" external.linked.project.path="$MODULE_DIR$/../../js" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/../../js/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../js/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../js">
+      <sourceFolder url="file://$MODULE_DIR$/../../js/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../js/target/scala-2.12/resource_managed/main" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../js/target/streams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: co.fs2:fs2-core_2.12:2.5.6:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.propensive:magnolia_2.12:0.17.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.propensive:mercator_2.12:0.2.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect-thirdparty-boopickle-shaded_2.12:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:izumi-reflect_2.12:1.1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-interop-cats_2.12:2.5.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-process_2.12:0.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-stacktracer_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-streams_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: dev.zio:zio-test-magnolia_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: dev.zio:zio-test-sbt_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: dev.zio:zio-test_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio-test_2.12:1.0.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: dev.zio:zio_2.12:1.0.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.github.cquiroz:cldr-api_sjs1_2.12:2.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.github.cquiroz:scala-java-locales_sjs1_2.12:1.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.github.cquiroz:scala-java-time_sjs1_2.12:2.3.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-core_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-history_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-hot_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-react-router_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-readwrite_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: me.shadaj:slinky-web_sjs1_2.12:0.7.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.portable-scala:portable-scala-reflect_2.12:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.portable-scala:portable-scala-reflect_sjs1_2.12:1.1.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-dom_sjs1_2.12:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-js:scalajs-library_2.12:1.7.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-js:scalajs-test-bridge_2.12:1.7.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-js:scalajs-test-interface_2.12:1.7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_2.12:2.4.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-compiler:2.12.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.15:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalaz:scalaz-core_sjs1_2.12:7.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scodec:scodec-bits_2.12:1.1.27:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_2.12:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-effect_2.12:2.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.12:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-mtl_2.12:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:simulacrum-scalafix-annotations_2.12:0.5.4:jar" level="project" />
+    <orderEntry type="module" module-name="slinky-554-sources" exported="" />
+  </component>
+</module>
